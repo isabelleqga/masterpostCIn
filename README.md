@@ -8,29 +8,69 @@
   </h1> 
 </div>
 
-## /PROGRAMAÇÃO 1 
-- Dr. ROBERTO SOUTO MAIOR DE BARROS
+### PROGRAMAÇÃO 1 
+#### Dr. ROBERTO SOUTO MAIOR DE BARROS
 - <a href="https://github.com/isabelleqga/atividadesUFPE/tree/main/P1">Atividades</a>
-## /LÓGICA PARA COMPUTAÇÃO
-- Dr. SERGIO RICARDO DE MELO QUEIROZ
+
+<div align="center">
+  -------------------------------------------
+</div>
+
+### LÓGICA PARA COMPUTAÇÃO
+#### Dr. SERGIO RICARDO DE MELO QUEIROZ
 - <a href="https://github.com/isabelleqga/familiaDesfuncional">Projeto</a>
-## /ORGANIZAÇÃO DE COMPUTADORES E SISTEMAS OPERACIONAIS
-- Dr. SERGIO VANDERLEI CAVALCANTE 
-## /REDES DE COMPUTADORES
-- Dr. KELVIN LOPES DIAS
+
+<div align="center">
+  -------------------------------------------
+</div>
+
+### ORGANIZAÇÃO DE COMPUTADORES E SISTEMAS OPERACIONAIS
+#### Dr. SERGIO VANDERLEI CAVALCANTE 
+
+<div align="center">
+  -------------------------------------------
+</div>
+
+### REDES DE COMPUTADORES
+#### Dr. KELVIN LOPES DIAS
 - <a href="https://github.com/isabelleqga/atividadesUFPE/tree/main/Redes">Atividades</a>
 - <a href="https://github.com/isabelleqga/ProjetoRedes">Projeto</a>
-## /BANCO DE DADOS
-- Dr. ROBSON DO NASCIMENTO FIDALGO
+
+<div align="center">
+  -------------------------------------------
+</div>
+
+### BANCO DE DADOS
+#### Dr. ROBSON DO NASCIMENTO FIDALGO
 - <a href="https://github.com/isabelleqga/BDCopa2022">Projeto</a>
-## /ENGENHARIA DE SOFTWARE
-- Dr. VINICIUS CARDOSO GARCIA
-## /GESTÃO DE PROCESSOS DE NEGÓCIO
-- Dra. JESSYKA FLAVYANNE FERREIRA VILELA
+
+<div align="center">
+  -------------------------------------------
+</div>
+
+### ENGENHARIA DE SOFTWARE
+#### Dr. VINICIUS CARDOSO GARCIA
+
+<div align="center">
+  -------------------------------------------
+</div>
+
+### GESTÃO DE PROCESSOS DE NEGÓCIO
+#### Dra. JESSYKA FLAVYANNE FERREIRA VILELA
 - <a href="https://github.com/isabelleqga/projeto-segel-22-2">Projeto (+ SGE + PGP)</a>
-## /GESTÃO DA INFORMAÇÃO E DO CONHECIMENTO
-## /SISTEMAS DE APOIO À DECISÃO
-- Dr. ADIEL TEIXEIRA DE ALMEIDA FILHO
-## /PROGRAMAÇÃO 2
-- Dr. HENRIQUE EMANUEL MOSTAERT REBELO
+
+<div align="center">
+  -------------------------------------------
+</div>
+
+### GESTÃO DA INFORMAÇÃO E DO CONHECIMENTO
+### SISTEMAS DE APOIO À DECISÃO
+#### Dr. ADIEL TEIXEIRA DE ALMEIDA FILHO
+
+<div align="center">
+  -------------------------------------------
+</div>
+
+### PROGRAMAÇÃO 2
+#### Dr. HENRIQUE EMANUEL MOSTAERT REBELO
 - <a href="https://github.com/isabelleqga/atividadesUFPE/tree/main/P2">Atividades</a>
