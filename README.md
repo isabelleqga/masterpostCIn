@@ -57,7 +57,7 @@
 
 ### PROGRAMAÇÃO 2
 #### Dr. HENRIQUE EMANUEL MOSTAERT REBELO
-
+<a href="https://github.com/isabelleqga/atividadesUFPE/tree/main/P2">Atividades</a>
 
 
 ### ESTRATÉGIA E PLANEJAMENTO
@@ -67,4 +67,3 @@
 
 ### QUALIDADE DE SOFTWARE E DA INFORMAÇÃO
 #### Dr. ALEXANDRE MARCOS LINS DE VASCONCELOS
-- <a href="https://github.com/isabelleqga/atividadesUFPE/tree/main/P2">Atividades</a>
