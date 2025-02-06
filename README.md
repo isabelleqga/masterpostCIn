@@ -10,67 +10,61 @@
 
 ### PROGRAMAÇÃO 1 
 #### Dr. ROBERTO SOUTO MAIOR DE BARROS
-- <a href="https://github.com/isabelleqga/atividadesUFPE/tree/main/P1">Atividades</a>
+<a href="https://github.com/isabelleqga/atividadesUFPE/tree/main/P1">Atividades</a>
 
-<div align="center">
-  -------------------------------------------
-</div>
+ 
 
 ### LÓGICA PARA COMPUTAÇÃO
 #### Dr. SERGIO RICARDO DE MELO QUEIROZ
-- <a href="https://github.com/isabelleqga/familiaDesfuncional">Projeto</a>
+<a href="https://github.com/isabelleqga/familiaDesfuncional">Projeto</a>
 
-<div align="center">
-  -------------------------------------------
-</div>
+ 
 
 ### ORGANIZAÇÃO DE COMPUTADORES E SISTEMAS OPERACIONAIS
 #### Dr. SERGIO VANDERLEI CAVALCANTE 
 
-<div align="center">
-  -------------------------------------------
-</div>
+ 
 
 ### REDES DE COMPUTADORES
 #### Dr. KELVIN LOPES DIAS
-- <a href="https://github.com/isabelleqga/atividadesUFPE/tree/main/Redes">Atividades</a>
-- <a href="https://github.com/isabelleqga/ProjetoRedes">Projeto</a>
+<a href="https://github.com/isabelleqga/atividadesUFPE/tree/main/Redes">Atividades</a>
+<a href="https://github.com/isabelleqga/ProjetoRedes">Projeto</a>
 
-<div align="center">
-  -------------------------------------------
-</div>
+ 
 
 ### BANCO DE DADOS
 #### Dr. ROBSON DO NASCIMENTO FIDALGO
-- <a href="https://github.com/isabelleqga/BDCopa2022">Projeto</a>
+<a href="https://github.com/isabelleqga/BDCopa2022">Projeto</a>
 
-<div align="center">
-  -------------------------------------------
-</div>
+ 
 
 ### ENGENHARIA DE SOFTWARE
 #### Dr. VINICIUS CARDOSO GARCIA
 
-<div align="center">
-  -------------------------------------------
-</div>
+ 
 
 ### GESTÃO DE PROCESSOS DE NEGÓCIO
 #### Dra. JESSYKA FLAVYANNE FERREIRA VILELA
-- <a href="https://github.com/isabelleqga/projeto-segel-22-2">Projeto (+ SGE + PGP)</a>
+<a href="https://github.com/isabelleqga/projeto-segel-22-2">Projeto (+ SGE + PGP)</a>
 
-<div align="center">
-  -------------------------------------------
-</div>
+ 
 
 ### GESTÃO DA INFORMAÇÃO E DO CONHECIMENTO
 ### SISTEMAS DE APOIO À DECISÃO
 #### Dr. ADIEL TEIXEIRA DE ALMEIDA FILHO
 
-<div align="center">
-  -------------------------------------------
-</div>
+ 
 
 ### PROGRAMAÇÃO 2
 #### Dr. HENRIQUE EMANUEL MOSTAERT REBELO
+
+
+
+### ESTRATÉGIA E PLANEJAMENTO
+#### MSc. ANA CARLA DA SILVA MONTEIRO
+
+
+
+### QUALIDADE DE SOFTWARE E DA INFORMAÇÃO
+#### Dr. ALEXANDRE MARCOS LINS DE VASCONCELOS
 - <a href="https://github.com/isabelleqga/atividadesUFPE/tree/main/P2">Atividades</a>
